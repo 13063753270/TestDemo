@@ -1,0 +1,78 @@
+2022-01-25 15:44:55,692 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 15:44:55,726 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 15:44:55,732 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 15:51:05,699 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 15:51:05,712 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 15:51:05,718 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 15:53:46,311 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 15:53:46,324 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 15:53:46,330 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 15:55:25,223 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 15:55:25,237 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 15:55:25,248 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 15:57:33,962 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 15:57:33,977 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 15:57:33,983 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 15:59:41,504 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 15:59:41,517 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 15:59:41,526 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:00:56,180 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:00:56,196 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:00:56,203 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:03:53,380 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:03:53,394 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:03:53,400 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:04:59,229 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:04:59,245 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:04:59,251 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:13:27,765 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:13:27,780 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:13:27,788 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:16:16,794 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:16:16,809 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:16:16,815 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:19:37,827 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:19:37,840 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:19:37,848 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:20:10,371 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:20:10,387 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:20:10,401 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:23:30,842 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:23:30,857 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:23:30,868 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:24:39,603 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:24:39,623 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:24:39,631 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:38:17,460 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:38:17,476 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:38:17,486 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:40:26,961 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:40:26,975 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:40:26,982 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:41:35,639 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:41:35,656 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:41:35,663 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:45:01,880 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:45:01,893 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:45:01,901 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:47:42,540 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:47:42,553 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:47:42,563 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:48:39,900 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:48:39,916 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:48:39,925 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:52:49,741 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:52:49,755 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:52:49,762 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:56:10,668 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:56:10,684 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:56:10,704 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 16:59:06,753 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 16:59:06,766 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 16:59:06,775 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 17:02:31,003 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 17:02:31,019 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 17:02:31,026 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
+2022-01-25 17:03:16,360 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2022-01-25 17:03:16,374 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2022-01-25 17:03:16,383 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\Administrator\Desktop\LuxShare.NETcore3.1Api\LuxShare.NETcore3.1Api
